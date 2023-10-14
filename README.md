@@ -1,2 +1,1 @@
-# random.c
-Generator
+# Random Number Generator
