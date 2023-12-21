@@ -1,3 +1,3 @@
-# My C language projects.
+# C language examples
 
-My every projects from the first semester of universty to now.
+My simple c-language examples at the first semester of university.
